@@ -1,0 +1,9 @@
+name: NoChat
+main: net.bukkit_plugin.kojima1021.NoChat.Main
+version: 0.0.1
+author: kojima1021
+commands:
+    nochat:
+      description: nobreak
+      usage: |
+           /<command> - プラグイン詳細
